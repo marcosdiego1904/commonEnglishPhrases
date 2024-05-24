@@ -1,6 +1,7 @@
 {
   "name": "translation-app",
   "private": true,
+  "homepage":"https://marcosdiego1904.github.io/commonEnglishPhrases/dist",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
